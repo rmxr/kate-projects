@@ -1,0 +1,10 @@
+.header {
+  margin: 10px;
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  opacity: 47%;
+  user-select: text;
+}

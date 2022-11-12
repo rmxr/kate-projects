@@ -1,0 +1,26 @@
+/* Vendor */
+@import url(../vendor/normalize.css);
+
+/* @font-face {
+  font-family: "Jost";
+  src: url("../vendor/Jost-VariableFont_wght.ttf");
+  font-weight: 400;
+  font-style: normal;
+} */
+
+/* Блоки */
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/content/content.css);
+@import url(../blocks/background-title/background-title.css);
+@import url(../blocks/cards/cards.css);
+
+
+
+/* Элементы */
+@import url(../blocks/header/__author/header__author.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__text/cards__text.css);

@@ -1,0 +1,8 @@
+.cards__title {
+  margin: 0;
+  position: absolute;
+  top: .1vw;
+  left: 1.05vw;
+  font-style: italic;
+  font-size: 4vw;
+}
