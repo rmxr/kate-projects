@@ -5,4 +5,6 @@
   left: 1.05vw;
   font-style: italic;
   font-size: 4vw;
+  transition-property: top, left;
+  transition-duration: .5s;
 }

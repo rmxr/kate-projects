@@ -4,8 +4,18 @@
   position: relative;
   display: flex;
   flex-direction: column;
+  transition: transform .5s;
 }
 
 .cards__item:nth-of-type(odd) {
   margin-top: 10vh;
+}
+
+.cards__item:hover {
+  transform: scale(1.05);
+}
+
+.cards__item:hover>.cards__title {
+  top: -0.2vw;
+  left: -0.2vw;
 }
