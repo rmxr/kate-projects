@@ -7,4 +7,5 @@
   font-weight: normal;
   opacity: 3%;
   user-select: none;
+  z-index: -1;
 }

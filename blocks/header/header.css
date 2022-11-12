@@ -7,4 +7,6 @@
   align-items: center;
   opacity: 47%;
   user-select: text;
+  z-index: 2;
+  position: relative;
 }
