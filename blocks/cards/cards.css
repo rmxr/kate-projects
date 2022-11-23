@@ -7,3 +7,9 @@
   justify-content: space-between;
   list-style-type: none;
 }
+
+@media screen and (max-width: 767px) {
+  .cards {
+    width: 100%;
+  }
+}
